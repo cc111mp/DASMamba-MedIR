@@ -1,6 +1,7 @@
 # DASMamba-MedIR
 PyTorch implementation of Directional Adaptive Shuffle Mamba (MICCAI 2025) for MRI SR, CT denoising &amp; PET synthesis (coming soon)
 
+## Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration
 
 
 ## Acknowledgment  
