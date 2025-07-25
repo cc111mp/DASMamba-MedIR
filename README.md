@@ -13,7 +13,7 @@
 
 ## Visual results
 <p align="center">
-  <img src="figures/example.png" width="600"/>
+  <img src="figures/example.png" width="900"/>
   <br>
 </p>
 
