@@ -18,7 +18,7 @@ This repository builds upon the code and dataset provided by the authors of [Res
 We thank them for making their work publicly available. Thanks to the authors for their excellent work.
 
 ## Citation
-If you use this repository or ideas from our work in your research, **please cite both our paper and Restore-RWKV**:
+If you use this repository or ideas from our work in your research, please consider cite both our paper and Restore-RWKV:
 
 ```bibtex
 @misc{yang2024restorerwkv,
