@@ -12,6 +12,10 @@
 ## Pre-trained Models
 
 ## Visual results
+<p align="center">
+  <img src="figures/example.png" width="600"/>
+  <br>
+</p>
 
 ## Acknowledgment  
 This repository builds upon the code and dataset provided by the authors of [Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV).  
