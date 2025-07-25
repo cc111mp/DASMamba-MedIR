@@ -1,4 +1,4 @@
-# Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration (MICCAI 2025)
+# Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration (MICCAI 2025 Oral)
 **Note:** This repository is under active preparation. Full training/testing scripts, pre-trained models, and documentation will be released soon.
 
 > **Abstract:**  
