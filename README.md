@@ -21,6 +21,7 @@ We thank them for making their work publicly available. Thanks to the authors fo
 
 If you use this repository or ideas from our work in your research, **please cite both our paper (placeholder below) and Restore-RWKV**:
 
+```bibtex
 @misc{yang2024restorerwkv,
   title={Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV},
   author={Zhiwen Yang and Jiayin Li and Hui Zhang and Dan Zhao and Bingzheng Wei and Yan Xu},
