@@ -29,6 +29,3 @@ If you use this repository or ideas from our work in your research, **please cit
   archivePrefix={arXiv},
   primaryClass={eess.IV}
 }
-
-
-## Contact
