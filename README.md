@@ -11,15 +11,14 @@
 
 ## Pre-trained Models
 
-## Citation
-
 ## Visual results
 
 ## Acknowledgment  
 This repository builds upon the code and dataset provided by the authors of [Restore-RWKV](https://github.com/Yaziwel/Restore-RWKV).  
 We thank them for making their work publicly available. Thanks to the authors for their excellent work.
 
-If you use this repository or ideas from our work in your research, **please cite both our paper (placeholder below) and Restore-RWKV**:
+## Citation
+If you use this repository or ideas from our work in your research, **please cite both our paper and Restore-RWKV**:
 
 ```bibtex
 @misc{yang2024restorerwkv,
