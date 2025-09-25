@@ -10,6 +10,9 @@
 
 
 ## Pre-trained Models
+| Dataset   | CT | MRI | PET | 
+|-----------|----------|----------|----------|
+| Google Drive | [Download]() | [Download]() | [Download]() |
 
 ## Visual results
 <p align="center">
