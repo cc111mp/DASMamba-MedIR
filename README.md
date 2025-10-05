@@ -12,7 +12,7 @@
 ## Pre-trained Models
 | Dataset   | CT | MRI | PET | 
 |-----------|----------|----------|----------|
-| Google Drive | [Download]() | [Download]() | [Download]() |
+| Google Drive | [Download](https://drive.google.com/file/d/1ea2yA3HEgXqvthn0knLQMlSpWY896wwW/view?usp=sharing) | [Download](https://drive.google.com/file/d/1WgZzXdqDhdBDIUplgAWwIK-QrtP8KYMx/view?usp=sharing) | [Download](https://drive.google.com/file/d/15g8LgMHcPnqgqWwvAU-noKdpg_vjq5dj/view?usp=sharing) |
 
 ## Visual results
 <p align="center">
@@ -35,4 +35,15 @@ If you use this repository or ideas from our work in your research, please consi
   eprint={2407.11087},
   archivePrefix={arXiv},
   primaryClass={eess.IV}
+}
+
+@InProceedings{ChaSim_Directional_MICCAI2025,
+        author = { Chan, Simon C. K. AND Shi, Lulin AND Huang, Bingxin AND Wong, Terence T. W.},
+        title = { { Directional Adaptive Shuffle-Based Visual State-Space Models for Medical Image Restoration } },
+        booktitle = {proceedings of Medical Image Computing and Computer Assisted Intervention -- MICCAI 2025},
+        year = {2025},
+        publisher = {Springer Nature Switzerland},
+        volume = {LNCS 15972},
+        month = {September},
+        page = {160 -- 170}
 }
