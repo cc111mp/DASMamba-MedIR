@@ -14,6 +14,11 @@
 |-----------|----------|----------|----------|
 | Google Drive | [Download](https://drive.google.com/file/d/1ea2yA3HEgXqvthn0knLQMlSpWY896wwW/view?usp=sharing) | [Download](https://drive.google.com/file/d/1WgZzXdqDhdBDIUplgAWwIK-QrtP8KYMx/view?usp=sharing) | [Download](https://drive.google.com/file/d/15g8LgMHcPnqgqWwvAU-noKdpg_vjq5dj/view?usp=sharing) |
 
+## Downloadable Results
+| Dataset   | CT | MRI | PET | 
+|-----------|----------|----------|----------|
+| Google Drive | [Download](https://drive.google.com/drive/folders/1FrSTGAimJf08aV_kEL5GJPhru88NtO5Z?usp=sharing) | [Download](https://drive.google.com/drive/folders/1uj2iftqrVbWOiB8Z8H_rTA7DTR1sxHmL?usp=sharing) | [Download](https://drive.google.com/drive/folders/1SBej70dgUva8HljmmezULX3ZgJ95ekAY?usp=sharing) |
+
 ## Visual results
 <p align="center">
   <img src="figures/example.png" width="900"/>
